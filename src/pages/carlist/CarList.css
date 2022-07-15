@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-img-container {
+    /* width: 1350px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid gray;
+    border-radius: 200px;
+    margin-top: 20px;
+}
+
+.car-list-title {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.car-button {
+    background: transparent;
+    padding: 0;
+    border: 2px solid gray;
+    border-radius: 8px;
+    margin: 20px;
+    width: 30%;
+    cursor: pointer;
+}

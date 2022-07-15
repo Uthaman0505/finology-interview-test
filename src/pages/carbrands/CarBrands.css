@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+}
+
+.title {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.car-brands {
+    background: transparent;
+    padding: 15px;
+    border: 2px solid gray;
+    border-radius: 8px;
+    margin: 20px;
+    width: 30%;
+    cursor: pointer;
+}
