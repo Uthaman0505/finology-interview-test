@@ -23,7 +23,6 @@ import PeroduaAlza from '../assets/car-image/perodua-alza.png'
 import PeroduaAruz from '../assets/car-image/perodua-aruz.png'
 import PeroduaAtiva from '../assets/car-image/perodua-ativa.png'
 
-
 import ToyotaYaris from '../assets/car-image/toyota-yaris.png'
 import ToyotaVios from '../assets/car-image/toyota-vios.png'
 import ToyotaCorolla from '../assets/car-image/toyota-corolla.png'
