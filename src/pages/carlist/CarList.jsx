@@ -6,13 +6,9 @@ import { CAR_NAMES } from '../../data/car_names'
 
 const CarList = () => {
 
-
   const { name } = useParams()
 
   const car = CAR_NAMES.filter((x => x.car_brand === name))[0];
-
-  console.log(car, 'car');
-
 
   return (
     <>
