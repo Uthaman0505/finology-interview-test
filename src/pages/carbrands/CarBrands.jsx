@@ -10,7 +10,7 @@ const CarBrands = () => {
     return (
         <>
             <div className='title'>
-                <h1>Click the car brand below to see the list of the cars</h1>
+                <h1>Click the car brand below to see the list of the cars!</h1>
             </div>
             {
                 BRANDS.map((brand, index) => (
